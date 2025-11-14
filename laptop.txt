@@ -12,7 +12,7 @@ https://github.com/coreybutler/nvm-windows
 Then install and use the LTS version
 nvm install lts 
 (then it will tell you what to type to "use" this version)
-eg. nvm use 22.21.0
+eg. nvm use 24.11.1
 
 Set up github account
 https://github.com/
