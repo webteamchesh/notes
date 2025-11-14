@@ -1,0 +1,37 @@
+ 24/10/2025
+Isolated laptop setup
+
+Install VSCode (use the Windows App store)
+
+Install Git:
+https://git-scm.com/install/windows
+Select the defaults for all the options for now - other than choosing VSCode as the default editor.
+
+Install NVM:
+https://github.com/coreybutler/nvm-windows
+Then install and use the LTS version
+nvm install lts 
+(then it will tell you what to type to "use" this version)
+eg. nvm use 22.21.0
+
+Set up github account
+https://github.com/
+
+Get added to the organisation - by invitation
+
+Set up VSCode Git tools
+https://code.visualstudio.com/docs/sourcecontrol/github
+
+Clone a repo
+Follow instructions above
+
+Edit 
+
+Push changes
+You'll need to set the email and user name in the terminal
+Go into the "source control" section
+* Stage the changes
+* add a commit message
+* push changes
+
+Currently we'll just always work on the main branch - this may change in future as we get more familiar with things.
